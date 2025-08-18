@@ -33,7 +33,7 @@ const AboutMe = () => {
                   {""} Get in Touch
                 </a>
                 <a
-                   href="Public/Aman_Goswami_Resume.pdf"
+                   href="/Aman_Goswami_Resume.pdf"
                    download="Aman-Goswami-Resume"
                   className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
                 >
